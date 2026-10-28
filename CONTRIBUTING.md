@@ -27,4 +27,4 @@ The publisher uses Python 3 and the standard library. It creates exports under `
 
 ## GitHub release
 
-After the release files are ready, run the **Release pack** workflow from the Actions tab on `main`. The release job runs only when the selected branch is `main`. It checks out that commit and creates a GitHub release with a tag that matches `pakku.json`. It fails if that tag already exists or if the export does not contain exactly one `.mrpack` file and one server pack `.zip` file. Both files are attached to the release.
+After the release files are ready, run the **Release pack** workflow from the Actions tab on `main`. The release job runs only when the selected branch is `main`. It checks out that commit and creates a GitHub release with a tag that matches `pakku.json`. It uses the matching file from `publish.changelog` in `pakku.json` as the release notes and fails if that file is missing, if the tag already exists, or if the export does not contain exactly one `.mrpack` file and one server pack `.zip` file. Both files are attached to the release.
