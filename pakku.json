@@ -1,9 +1,6 @@
 {
     "name": "Heroes of Season 3",
-    "version": "0.0.1",
-    "overrides": [
-        "config"
-    ],
+    "version": "0.0.2",
     "projects": {
         "structure-pool-api": {
             "side": "BOTH"
