@@ -1,10 +1,11 @@
 ## Changelog 0.0.5
 
 ### Added
-- Added Spelunkery.
-- Added Moonlight Lib.
-- Added Streams Reflowing.
-- Added Vanilla Backport.
-- Added Platform.
-- Added Icy's Better Horses.
-- Added Modonomicon.
+- Added [Spelunkery](https://modrinth.com/mod/spelunkery).
+- Added [Moonlight Lib](https://modrinth.com/mod/moonlight).
+- Added [Streams Reflowing](https://modrinth.com/mod/streams-reflowing).
+- Added [Vanilla Backport](https://modrinth.com/mod/vanillabackport).
+- Added [Platform](https://modrinth.com/mod/platform).
+- Added [Icy's Better Horses](https://modrinth.com/mod/icys-better-horses).
+- Added [Modonomicon](https://modrinth.com/mod/modonomicon).
+- Added [Jade Addons](https://modrinth.com/mod/jade-addons-forge).

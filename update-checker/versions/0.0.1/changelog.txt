@@ -1,51 +1,51 @@
 ## Changelog 0.0.1
 
 ### Added
-- Added Archers (RPG Series).
-- Added Archers Expansion.
-- Added Armor Model API.
-- Added Armory (RPG Series).
-- Added Arsenal (RPG Series).
-- Added Bards (RPG Series Plus).
-- Added Berserker.
-- Added Better Combat.
-- Added BundleAPI.
-- Added Combat Roll.
-- Added Critical Strike.
-- Added Curios API.
-- Added Dungeon Difficulty.
-- Added Elemental Wizards (RPG Series Plus).
-- Added Forcemaster.
-- Added Gazebos (RPG Series).
-- Added LNE Archers.
-- Added LNE Paladins.
-- Added LNE Rogues.
-- Added LNE Wizards.
-- Added More RPG Library.
-- Added More RPG Classes - Skill Tree.
-- Added Paladins & Priests (RPG Series).
-- Added Player Animator.
-- Added Pufferfish.
-- Added RangedWeaponAPI.
-- Added Rogues & Warriors (RPG Series).
-- Added Runes.
-- Added ShieldAPI.
-- Added Skill Tree (RPG Series).
-- Added Spell Engine.
-- Added Spell Power Attribute.
-- Added Wizards (RPG Series).
-- Added Additional Jewelry.
-- Added Ancient Remnants.
-- Added Aquamirae.
-- Added Accents.
-- Added Pillager Caravans.
-- Added Fragmentum.
-- Added Jewelry (RPG Series).
-- Added More Relics.
-- Added Relics (RPG Series).
-- Added Structure Pool API.
-- Added Village Taverns (RPG Series).
-- Added Cloth Config v15 API.
-- Added GeckoLib 4.
-- Added Loot Journal: Pickup Notifier.
-- Added Obscure Tooltips.
+- Added [Archers (RPG Series)](https://modrinth.com/mod/archers).
+- Added [Archers Expansion](https://modrinth.com/mod/archers-expansion).
+- Added [Armor Model API](https://modrinth.com/mod/armor-model-api).
+- Added [Armory (RPG Series)](https://modrinth.com/mod/armory-rpg-series).
+- Added [Arsenal (RPG Series)](https://modrinth.com/mod/arsenal-rpg-series).
+- Added [Bards (RPG Series Plus)](https://modrinth.com/mod/bard-more-rpg-classes).
+- Added [Berserker](https://modrinth.com/mod/berserker-rpg-class).
+- Added [Better Combat](https://modrinth.com/mod/better-combat).
+- Added [BundleAPI](https://modrinth.com/mod/bundle-api).
+- Added [Combat Roll](https://modrinth.com/mod/combat-roll).
+- Added [Critical Strike](https://modrinth.com/mod/critical-strike).
+- Added [Curios API](https://modrinth.com/mod/curios).
+- Added [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty).
+- Added [Elemental Wizards (RPG Series Plus)](https://modrinth.com/mod/elemental-wizards-rpg).
+- Added [Forcemaster](https://modrinth.com/mod/forcemaster-rpg-class).
+- Added [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos).
+- Added [LNE Archers](https://modrinth.com/mod/lne-archers).
+- Added [LNE Paladins](https://modrinth.com/mod/lne-paladins).
+- Added [LNE Rogues](https://modrinth.com/mod/lne-rogues).
+- Added [LNE Wizards](https://modrinth.com/mod/lne-wizards).
+- Added [More RPG Library](https://modrinth.com/mod/more-rpg-library).
+- Added [More RPG Classes - Skill Tree](https://modrinth.com/mod/more-rpg-classes-skill-tree).
+- Added [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests).
+- Added [Player Animator](https://modrinth.com/mod/playeranimator).
+- Added [Pufferfish](https://modrinth.com/mod/skills).
+- Added [RangedWeaponAPI](https://modrinth.com/mod/ranged-weapon-api).
+- Added [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors).
+- Added [Runes](https://modrinth.com/mod/runes).
+- Added [ShieldAPI](https://modrinth.com/mod/shield-api).
+- Added [Skill Tree (RPG Series)](https://modrinth.com/mod/skill-tree).
+- Added [Spell Engine](https://modrinth.com/mod/spell-engine).
+- Added [Spell Power Attribute](https://modrinth.com/mod/spell-power).
+- Added [Wizards (RPG Series)](https://modrinth.com/mod/wizards).
+- Added [Additional Jewelry](https://modrinth.com/mod/additional-rpg-jewelry).
+- Added [Ancient Remnants](https://modrinth.com/mod/ancient-remnants).
+- Added [Aquamirae](https://modrinth.com/mod/aquamirae).
+- Added [Accents](https://modrinth.com/mod/accents).
+- Added [Pillager Caravans](https://modrinth.com/mod/pillager-caravans).
+- Added [Fragmentum](https://modrinth.com/mod/fragmentum).
+- Added [Jewelry (RPG Series)](https://modrinth.com/mod/jewelry).
+- Added [More Relics](https://modrinth.com/mod/more-relics-rpg).
+- Added [Relics (RPG Series)](https://modrinth.com/mod/relics-rpg).
+- Added [Structure Pool API](https://modrinth.com/mod/structure-pool-api).
+- Added [Village Taverns (RPG Series)](https://modrinth.com/mod/village-taverns).
+- Added [Cloth Config v15 API](https://modrinth.com/mod/cloth-config).
+- Added [GeckoLib 4](https://modrinth.com/mod/geckolib).
+- Added [Loot Journal: Pickup Notifier](https://modrinth.com/mod/loot-journal).
+- Added [Obscure Tooltips](https://modrinth.com/mod/obscure-tooltips).

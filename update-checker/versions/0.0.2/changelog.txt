@@ -1,40 +1,40 @@
 ## Changelog 0.0.2
 
 ### Added
-- Added Create.
-- Added Create: Central Kitchen.
-- Added Create Slice & Dice.
-- Added Create: Steam 'n' Rails.
-- Added Create: Factory.
-- Added Create Deco.
-- Added Create: Copycats+.
-- Added Create Encased.
-- Added Design n' Decor.
-- Added Create: Structures Arise.
-- Added Create: Dragons Plus.
-- Added Create: Bells & Whistles.
-- Added Create Bits & Bobs.
-- Added Create: Cardboarded Conveynience.
-- Added Create: Enchantment Industry.
-- Added Create: Connected.
-- Added Create: Mechanical Spawner.
-- Added Create: Things and Misc.
-- Added Create: Trimmed.
-- Added Create: Ultimate Factory.
-- Added Create: Vibrant Vaults.
-- Added Create: Framed.
-- Added Create Goggles.
-- Added Create Railways Navigator.
-- Added Create: Threaded Trains.
-- Added Strut Your Stuff.
-- Added Architectury.
-- Added Azimuth.
-- Added Better Compatibility Checker.
-- Added DragonLib.
-- Added Kotlin for Forge.
-- Added Mechanicals Lib.
-- Added Modpack Update Checker.
-- Added Mouse Tweaks.
+- Added [Create](https://modrinth.com/mod/create).
+- Added [Create: Central Kitchen](https://modrinth.com/mod/create-central-kitchen).
+- Added [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice).
+- Added [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails-1.21.1).
+- Added [Create: Factory](https://modrinth.com/mod/create-factory).
+- Added [Create Deco](https://modrinth.com/mod/create-deco).
+- Added [Create: Copycats+](https://modrinth.com/mod/copycats).
+- Added [Create Encased](https://modrinth.com/mod/create-encased).
+- Added [Design n' Decor](https://modrinth.com/mod/create-design-n-decor).
+- Added [Create: Structures Arise](https://modrinth.com/mod/create-structures-arise).
+- Added [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus).
+- Added [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles).
+- Added [Create Bits & Bobs](https://modrinth.com/mod/create-bits-n-bobs).
+- Added [Create: Cardboarded Conveynience](https://modrinth.com/mod/create-cardboarded-conveynience).
+- Added [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry).
+- Added [Create: Connected](https://modrinth.com/mod/create-connected).
+- Added [Create: Mechanical Spawner](https://modrinth.com/mod/create-mechanical-spawner).
+- Added [Create: Things and Misc](https://modrinth.com/mod/create-misc-and-things).
+- Added [Create: Trimmed](https://modrinth.com/mod/create-trimmed).
+- Added [Create: Ultimate Factory](https://modrinth.com/mod/create-ultimate-factory).
+- Added [Create: Vibrant Vaults](https://modrinth.com/mod/create-vibrant-vaults).
+- Added [Create: Framed](https://modrinth.com/mod/create-framed).
+- Added [Create Goggles](https://modrinth.com/mod/create-goggles).
+- Added [Create Railways Navigator](https://modrinth.com/mod/create-railways-navigator).
+- Added [Create: Threaded Trains](https://modrinth.com/mod/create-threaded-trains).
+- Added [Strut Your Stuff](https://modrinth.com/mod/strut-your-stuff).
+- Added [Architectury](https://modrinth.com/mod/architectury-api).
+- Added [Azimuth](https://modrinth.com/mod/azimuth-api).
+- Added [Better Compatibility Checker](https://modrinth.com/mod/better-compatibility-checker).
+- Added [DragonLib](https://modrinth.com/mod/dragonlib).
+- Added [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge).
+- Added [Mechanicals Lib](https://modrinth.com/mod/mechanicals-lib).
+- Added [Modpack Update Checker](https://modrinth.com/mod/modpack-update-checker).
+- Added [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks).
 
 ### Changed
-- Changed the server pack to include GeckoLib 4.
+- Changed the server pack to include [GeckoLib 4](https://modrinth.com/mod/geckolib).

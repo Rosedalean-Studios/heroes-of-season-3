@@ -1,14 +1,14 @@
 ## Changelog 0.0.4
 
 ### Added
-- Added Terralith.
-- Added Tectonic.
-- Added Custom Nether Portal.
-- Added RightClickHarvest.
-- Added Lithostitched.
-- Added JamLib.
-- Added Create wrench pickup support for Sophisticated Storage and Tom's Simple Storage.
-- Added KubeJS Create recipes for compacting, crushing, mixing, haunting, and splashing.
+- Added [Terralith](https://modrinth.com/mod/terralith).
+- Added [Tectonic](https://modrinth.com/mod/tectonic).
+- Added [Custom Nether Portal](https://modrinth.com/mod/custom-nether-portal).
+- Added [RightClickHarvest](https://modrinth.com/mod/rightclickharvest).
+- Added [Lithostitched](https://modrinth.com/mod/lithostitched).
+- Added [JamLib](https://modrinth.com/mod/jamlib).
+- Added [Create](https://modrinth.com/mod/create) wrench pickup support for [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) and [Tom's Simple Storage](https://modrinth.com/mod/toms-storage).
+- Added [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) [Create](https://modrinth.com/mod/create) recipes for compacting, crushing, mixing, haunting, and splashing.
 
 ### Removed
-- Removed Create: Ultimate Factory.
+- Removed [Create: Ultimate Factory](https://modrinth.com/mod/create-ultimate-factory).

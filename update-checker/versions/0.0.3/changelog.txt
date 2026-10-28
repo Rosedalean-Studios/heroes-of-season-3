@@ -1,52 +1,52 @@
 ## Changelog 0.0.3
 
 ### Added
-- Added [Let's Do] Farm & Charm.
-- Added [Let's Do] Vinery.
-- Added [Let's Do] Bakery.
-- Added [Let's Do] Brewery.
-- Added [Let's Do] Candlelight.
-- Added [Let's Do] HerbalBrews.
-- Added [Let's Do] Camping.
-- Added [Let's Do] Alpine Whispers.
-- Added [Let's Do] Beachparty.
-- Added [Let's Do] BloomingNature.
-- Added [Let's Do] Furniture.
-- Added [Let's Do] Hearth & Timber.
-- Added [Let's Do] Meadow.
-- Added [Let's Do] Lilis Lucky Lures.
-- Added [Let's Do] Lili's Pottery.
-- Added BetterDays.
-- Added Biolith.
-- Added CorgiLib.
-- Added Data Anchor.
-- Added Enhanced Celestials 2: Core.
-- Added Enhanced Celestials 2: Default Lunar Events.
-- Added Item Obliterator.
-- Added TreeChop.
-- Added Corpse.
-- Added Corpse Curios Compatibility.
-- Added Sophisticated Core.
-- Added Sophisticated Storage.
-- Added Tom's Simple Storage.
-- Added Simple Voice Chat.
-- Added Emojiful.
-- Added Jade.
-- Added Necronomicon.
-- Added BaguetteLib.
-- Added Sinytra Connector.
-- Added Balm.
-- Added CoroUtil.
-- Added Forgified Fabric API.
-- Added Fzzy Config.
-- Added KubeJS.
-- Added oωo.
-- Added Rhino.
-- Added Syrup Library.
-- Added VinURL.
-- Added What Are They Up To.
-- Added YetAnotherConfigLib.
-- Added CreateBetterFps.
+- Added [\[Let's Do\] Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm).
+- Added [\[Let's Do\] Vinery](https://modrinth.com/mod/lets-do-vinery).
+- Added [\[Let's Do\] Bakery](https://modrinth.com/mod/lets-do-bakery-farmcharm-compat).
+- Added [\[Let's Do\] Brewery](https://modrinth.com/mod/lets-do-brewery-farmcharm-compat).
+- Added [\[Let's Do\] Candlelight](https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat).
+- Added [\[Let's Do\] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews).
+- Added [\[Let's Do\] Camping](https://modrinth.com/mod/lets-do-camping).
+- Added [\[Let's Do\] Alpine Whispers](https://modrinth.com/mod/lets-do-alpine-whispers).
+- Added [\[Let's Do\] Beachparty](https://modrinth.com/mod/lets-do-beachparty).
+- Added [\[Let's Do\] BloomingNature](https://modrinth.com/mod/lets-do-bloomingnature).
+- Added [\[Let's Do\] Furniture](https://modrinth.com/mod/lets-do-furniture).
+- Added [\[Let's Do\] Hearth & Timber](https://modrinth.com/mod/lets-do-hearth-timber).
+- Added [\[Let's Do\] Meadow](https://modrinth.com/mod/lets-do-meadow).
+- Added [\[Let's Do\] Lilis Lucky Lures](https://modrinth.com/mod/lets-do-lilis-lucky-lures).
+- Added [\[Let's Do\] Lili's Pottery](https://modrinth.com/mod/lets-do-lilis-pottery).
+- Added [BetterDays](https://modrinth.com/mod/betterdays).
+- Added [Biolith](https://modrinth.com/mod/biolith).
+- Added [CorgiLib](https://modrinth.com/mod/corgilib).
+- Added [Data Anchor](https://modrinth.com/mod/data-anchor).
+- Added [Enhanced Celestials 2: Core](https://modrinth.com/mod/enhanced-celestials-2-core).
+- Added [Enhanced Celestials 2: Default Lunar Events](https://modrinth.com/mod/enhanced-celestials-2-default-lunar-events).
+- Added [Item Obliterator](https://modrinth.com/mod/item-obliterator).
+- Added [TreeChop](https://modrinth.com/mod/treechop).
+- Added [Corpse](https://modrinth.com/mod/corpse).
+- Added [Corpse Curios Compatibility](https://modrinth.com/mod/corpse-x-curios-api-compat).
+- Added [Sophisticated Core](https://modrinth.com/mod/sophisticated-core).
+- Added [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage).
+- Added [Tom's Simple Storage](https://modrinth.com/mod/toms-storage).
+- Added [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat).
+- Added [Emojiful](https://modrinth.com/mod/emojiful).
+- Added [Jade](https://modrinth.com/mod/jade).
+- Added [Necronomicon](https://modrinth.com/mod/necronomicon).
+- Added [BaguetteLib](https://modrinth.com/mod/baguettelib).
+- Added [Sinytra Connector](https://modrinth.com/mod/connector).
+- Added [Balm](https://modrinth.com/mod/balm).
+- Added [CoroUtil](https://modrinth.com/mod/coroutil).
+- Added [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api).
+- Added [Fzzy Config](https://modrinth.com/mod/fzzy-config).
+- Added [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs).
+- Added [oωo](https://modrinth.com/mod/owo-lib).
+- Added [Rhino](https://curseforge.com/minecraft/mc-mods/rhino).
+- Added [Syrup Library](https://modrinth.com/mod/syrup-library).
+- Added [VinURL](https://modrinth.com/mod/vinurl).
+- Added [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to).
+- Added [YetAnotherConfigLib](https://modrinth.com/mod/yacl).
+- Added [CreateBetterFps](https://modrinth.com/mod/createbetterfps).
 
 ### Changed
-- Added chest, barrel, and wood storage recipes for Sophisticated Storage.
+- Added chest, barrel, and wood storage recipes for [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage).
