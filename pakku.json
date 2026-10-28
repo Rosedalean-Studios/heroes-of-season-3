@@ -3,5 +3,10 @@
     "version": "0.0.1",
     "overrides": [
         "config"
-    ]
+    ],
+    "projects": {
+        "structure-pool-api": {
+            "side": "BOTH"
+        }
+    }
 }
