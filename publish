@@ -70,7 +70,7 @@ def request(url, headers=None, data=None, timeout=30):
         with urllib.request.urlopen(req, timeout=timeout) as response:
             return response.status, response.read()
     except urllib.error.HTTPError as error:
-        fail(f"request failed: HTTP {error.code}")
+        fail(f"request failed: {req.get_method()} {urllib.parse.urlsplit(req.full_url).path}: HTTP {error.code}")
     except (urllib.error.URLError, TimeoutError) as error:
         fail(f"request failed: {error.reason if isinstance(error, urllib.error.URLError) else error}")
 
