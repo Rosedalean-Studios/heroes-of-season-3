@@ -1,0 +1,8 @@
+## Changelog 0.0.7
+
+### Changed
+- Changed the GitHub release server pack file name to include `serverpack`.
+
+### Added
+- Added [Sparse Structures](https://modrinth.com/mod/sparsestructures) to the server pack.
+- Added [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack).
