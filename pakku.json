@@ -7,6 +7,9 @@
         },
         "create": {
             "side": "BOTH"
+        },
+        "geckolib": {
+            "side": "BOTH"
         }
     }
 }
