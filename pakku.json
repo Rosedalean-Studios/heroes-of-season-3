@@ -1,9 +1,15 @@
 {
     "name": "Heroes of Season 3",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": "Syrup Studios",
     "paths": {
         "data_packs": "datapacks"
+    },
+    "publish": {
+        "modrinth": "i41NNeZw",
+        "release_type": "alpha",
+        "changelog": "update-checker/versions/{version}/changelog.txt",
+        "metadata": "update-checker/meta.json"
     },
     "projects": {
         "structure-pool-api": {

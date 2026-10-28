@@ -1,0 +1,10 @@
+## Changelog 0.0.5
+
+### Added
+- Added Spelunkery.
+- Added Moonlight Lib.
+- Added Streams Reflowing.
+- Added Vanilla Backport.
+- Added Platform.
+- Added Icy's Better Horses.
+- Added Modonomicon.

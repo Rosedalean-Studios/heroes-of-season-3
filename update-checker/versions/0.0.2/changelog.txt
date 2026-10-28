@@ -1,0 +1,40 @@
+## Changelog 0.0.2
+
+### Added
+- Added Create.
+- Added Create: Central Kitchen.
+- Added Create Slice & Dice.
+- Added Create: Steam 'n' Rails.
+- Added Create: Factory.
+- Added Create Deco.
+- Added Create: Copycats+.
+- Added Create Encased.
+- Added Design n' Decor.
+- Added Create: Structures Arise.
+- Added Create: Dragons Plus.
+- Added Create: Bells & Whistles.
+- Added Create Bits & Bobs.
+- Added Create: Cardboarded Conveynience.
+- Added Create: Enchantment Industry.
+- Added Create: Connected.
+- Added Create: Mechanical Spawner.
+- Added Create: Things and Misc.
+- Added Create: Trimmed.
+- Added Create: Ultimate Factory.
+- Added Create: Vibrant Vaults.
+- Added Create: Framed.
+- Added Create Goggles.
+- Added Create Railways Navigator.
+- Added Create: Threaded Trains.
+- Added Strut Your Stuff.
+- Added Architectury.
+- Added Azimuth.
+- Added Better Compatibility Checker.
+- Added DragonLib.
+- Added Kotlin for Forge.
+- Added Mechanicals Lib.
+- Added Modpack Update Checker.
+- Added Mouse Tweaks.
+
+### Changed
+- Changed the server pack to include GeckoLib 4.

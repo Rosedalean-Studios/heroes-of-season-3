@@ -1,0 +1,51 @@
+## Changelog 0.0.1
+
+### Added
+- Added Archers (RPG Series).
+- Added Archers Expansion.
+- Added Armor Model API.
+- Added Armory (RPG Series).
+- Added Arsenal (RPG Series).
+- Added Bards (RPG Series Plus).
+- Added Berserker.
+- Added Better Combat.
+- Added BundleAPI.
+- Added Combat Roll.
+- Added Critical Strike.
+- Added Curios API.
+- Added Dungeon Difficulty.
+- Added Elemental Wizards (RPG Series Plus).
+- Added Forcemaster.
+- Added Gazebos (RPG Series).
+- Added LNE Archers.
+- Added LNE Paladins.
+- Added LNE Rogues.
+- Added LNE Wizards.
+- Added More RPG Library.
+- Added More RPG Classes - Skill Tree.
+- Added Paladins & Priests (RPG Series).
+- Added Player Animator.
+- Added Pufferfish.
+- Added RangedWeaponAPI.
+- Added Rogues & Warriors (RPG Series).
+- Added Runes.
+- Added ShieldAPI.
+- Added Skill Tree (RPG Series).
+- Added Spell Engine.
+- Added Spell Power Attribute.
+- Added Wizards (RPG Series).
+- Added Additional Jewelry.
+- Added Ancient Remnants.
+- Added Aquamirae.
+- Added Accents.
+- Added Pillager Caravans.
+- Added Fragmentum.
+- Added Jewelry (RPG Series).
+- Added More Relics.
+- Added Relics (RPG Series).
+- Added Structure Pool API.
+- Added Village Taverns (RPG Series).
+- Added Cloth Config v15 API.
+- Added GeckoLib 4.
+- Added Loot Journal: Pickup Notifier.
+- Added Obscure Tooltips.

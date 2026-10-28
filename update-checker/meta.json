@@ -1,5 +1,51 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
-  "versions": []
+  "versions": [
+    {
+      "id": "0.0.1",
+      "releasedAt": 1793158442440,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/i41NNeZw"
+        }
+      }
+    },
+    {
+      "id": "0.0.2",
+      "releasedAt": 1793215736267,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/i41NNeZw"
+        }
+      }
+    },
+    {
+      "id": "0.0.3",
+      "releasedAt": 1793222110820,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/i41NNeZw"
+        }
+      }
+    },
+    {
+      "id": "0.0.4",
+      "releasedAt": 1793225436181,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/i41NNeZw"
+        }
+      }
+    },
+    {
+      "id": "0.0.5",
+      "releasedAt": 1793225940210,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/i41NNeZw"
+        }
+      }
+    }
+  ]
 }

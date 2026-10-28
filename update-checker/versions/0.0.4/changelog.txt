@@ -1,0 +1,14 @@
+## Changelog 0.0.4
+
+### Added
+- Added Terralith.
+- Added Tectonic.
+- Added Custom Nether Portal.
+- Added RightClickHarvest.
+- Added Lithostitched.
+- Added JamLib.
+- Added Create wrench pickup support for Sophisticated Storage and Tom's Simple Storage.
+- Added KubeJS Create recipes for compacting, crushing, mixing, haunting, and splashing.
+
+### Removed
+- Removed Create: Ultimate Factory.

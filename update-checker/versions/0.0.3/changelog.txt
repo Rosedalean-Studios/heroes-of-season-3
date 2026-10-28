@@ -1,0 +1,52 @@
+## Changelog 0.0.3
+
+### Added
+- Added [Let's Do] Farm & Charm.
+- Added [Let's Do] Vinery.
+- Added [Let's Do] Bakery.
+- Added [Let's Do] Brewery.
+- Added [Let's Do] Candlelight.
+- Added [Let's Do] HerbalBrews.
+- Added [Let's Do] Camping.
+- Added [Let's Do] Alpine Whispers.
+- Added [Let's Do] Beachparty.
+- Added [Let's Do] BloomingNature.
+- Added [Let's Do] Furniture.
+- Added [Let's Do] Hearth & Timber.
+- Added [Let's Do] Meadow.
+- Added [Let's Do] Lilis Lucky Lures.
+- Added [Let's Do] Lili's Pottery.
+- Added BetterDays.
+- Added Biolith.
+- Added CorgiLib.
+- Added Data Anchor.
+- Added Enhanced Celestials 2: Core.
+- Added Enhanced Celestials 2: Default Lunar Events.
+- Added Item Obliterator.
+- Added TreeChop.
+- Added Corpse.
+- Added Corpse Curios Compatibility.
+- Added Sophisticated Core.
+- Added Sophisticated Storage.
+- Added Tom's Simple Storage.
+- Added Simple Voice Chat.
+- Added Emojiful.
+- Added Jade.
+- Added Necronomicon.
+- Added BaguetteLib.
+- Added Sinytra Connector.
+- Added Balm.
+- Added CoroUtil.
+- Added Forgified Fabric API.
+- Added Fzzy Config.
+- Added KubeJS.
+- Added oωo.
+- Added Rhino.
+- Added Syrup Library.
+- Added VinURL.
+- Added What Are They Up To.
+- Added YetAnotherConfigLib.
+- Added CreateBetterFps.
+
+### Changed
+- Added chest, barrel, and wood storage recipes for Sophisticated Storage.
