@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "0.0.2",
+  "modpackName": "Heroes of Season 3",
+  "updateCheckerId": "https://raw.githubusercontent.com/Rosedalean-Studios/heroes-of-season-3/refs/heads/main/update-checker/",
+  "advanced": {
+    "bccEnabled": true,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}

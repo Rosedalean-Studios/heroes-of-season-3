@@ -4,6 +4,9 @@
     "projects": {
         "structure-pool-api": {
             "side": "BOTH"
+        },
+        "create": {
+            "side": "BOTH"
         }
     }
 }
