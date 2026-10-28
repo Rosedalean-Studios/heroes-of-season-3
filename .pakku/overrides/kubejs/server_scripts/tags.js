@@ -34,3 +34,26 @@ ServerEvents.tags('item', event => {
     'minecraft:dead_horn_coral_fan'
   ])
 })
+
+ServerEvents.tags('block', event => {
+  event.add('create:wrench_pickup', [
+    'sophisticatedstorage:controller',
+    'sophisticatedstorage:storage_link',
+    'sophisticatedstorage:storage_io',
+    'sophisticatedstorage:storage_input',
+    'sophisticatedstorage:storage_output',
+    'sophisticatedstorage:decoration_table',
+    'toms_storage:inventory_connector',
+    'toms_storage:storage_terminal',
+    'toms_storage:trim',
+    'toms_storage:open_crate',
+    'toms_storage:inventory_cable',
+    'toms_storage:inventory_cable_framed',
+    'toms_storage:inventory_cable_connector',
+    'toms_storage:inventory_cable_connector_framed',
+    'toms_storage:inventory_proxy',
+    'toms_storage:crafting_terminal',
+    'toms_storage:basic_inventory_hopper',
+    'toms_storage:level_emitter'
+  ])
+})
