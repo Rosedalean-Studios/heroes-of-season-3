@@ -1,0 +1,6 @@
+## Changelog 0.0.6
+
+### Added
+- Added [Critters and Companions](https://modrinth.com/mod/critters-and-companions).
+- Added [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm).
+- Added [Lionfish-API](https://modrinth.com/mod/lionfish-api), required by L_Ender's Cataclysm.
