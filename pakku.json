@@ -1,6 +1,10 @@
 {
     "name": "Heroes of Season 3",
-    "version": "0.0.2",
+    "version": "0.0.4",
+    "author": "Syrup Studios",
+    "paths": {
+        "data_packs": "datapacks"
+    },
     "projects": {
         "structure-pool-api": {
             "side": "BOTH"
@@ -9,6 +13,24 @@
             "side": "BOTH"
         },
         "geckolib": {
+            "side": "BOTH"
+        },
+        "biolith": {
+            "side": "BOTH"
+        },
+        "kubejs": {
+            "side": "BOTH"
+        },
+        "syrup-library": {
+            "side": "BOTH"
+        },
+        "terralith": {
+            "side": "BOTH"
+        },
+        "tectonic": {
+            "side": "BOTH"
+        },
+        "lithostitched": {
             "side": "BOTH"
         }
     }

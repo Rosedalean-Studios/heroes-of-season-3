@@ -1,0 +1,12 @@
+{
+  "configVersion": 2,
+  "blacklisted_items": [
+    "minecraft:barrel",
+    "minecraft:chest"
+  ],
+  "blacklisted_nbt": [],
+  "only_disable_interactions": [],
+  "only_disable_attacks": [],
+  "only_disable_recipes": [],
+  "use_hashmap_optimizations": false
+}
