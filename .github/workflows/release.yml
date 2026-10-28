@@ -56,6 +56,12 @@ jobs:
             exit 1
           fi
 
-          gh release create "$version" "${files[0]}" \
+          server_files=(build/serverpack/*.zip)
+          if [[ ${#server_files[@]} -ne 1 ]]; then
+            echo "Expected one server pack export in build/serverpack; found ${#server_files[@]}" >&2
+            exit 1
+          fi
+
+          gh release create "$version" "${files[0]}" "${server_files[0]}" \
             --target "$target_sha" \
             --generate-notes
