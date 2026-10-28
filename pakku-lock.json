@@ -6,5 +6,2125 @@
     "loaders": {
         "neoforge": "21.1.262"
     },
+    "projects": [
+        {
+            "pakku_id": "vohLVeznW7TGwmkI",
+            "pakku_links": [
+                "mIkIZd7a0chl4X2b",
+                "o0Y8R7IYElc9cRP3"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "accents"
+            },
+            "name": {
+                "modrinth": "Accents"
+            },
+            "id": {
+                "modrinth": "fALx4O2Q"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "accents-neoforge-1.21.1-2.0.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fALx4O2Q/versions/djiz0JhA/accents-neoforge-1.21.1-2.0.3.jar",
+                    "id": "djiz0JhA",
+                    "parent_id": "fALx4O2Q",
+                    "hashes": {
+                        "sha512": "b1b2947e95c4fea1ebd34cfc9b71c3f2821eec4f33785941c6d8799a6d7c5893b48185715a7df0d153e345f8d45ff699aa072ded427c968a85d8b64bbe8ea092",
+                        "sha1": "88e4a101f35d7c3c4e0e6859aaf5473327eb8f39"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK",
+                        "8BmcQJ2H"
+                    ],
+                    "size": 671144,
+                    "date_published": "2026-09-19T15:58:48.939653Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hHOSN6ZzbdOZ2TQB",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "jt5Al9aN9VjCA6IK",
+                "lerdO7OatibR9g9A"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "additional-rpg-jewelry"
+            },
+            "name": {
+                "modrinth": "Additional Jewelry (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "rULzJh3O"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "additional_rpg_jewelry-neoforge-2.4.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/rULzJh3O/versions/4BPWOOc1/additional_rpg_jewelry-neoforge-2.4.0+1.21.1.jar",
+                    "id": "4BPWOOc1",
+                    "parent_id": "rULzJh3O",
+                    "hashes": {
+                        "sha512": "4008de7dfe00c0bc1f6601776daa4e5582d8d9425c659f7730381a95de1f88f25fd80d8f84c7b4287b4949786a907a23cc7a46d589b180d84e0e5724fd8fa26f",
+                        "sha1": "6b9e7cacb13dcbc0b0d8475ada71bd7d6277590b"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "sNJAIjUm",
+                        "vvuO3ImH"
+                    ],
+                    "size": 271165,
+                    "date_published": "2026-10-11T13:00:25.665262Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0ctjvWOAkPBOG4cx",
+            "pakku_links": [
+                "mIkIZd7a0chl4X2b"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "ancient-remnants"
+            },
+            "name": {
+                "modrinth": "Ancient Remnants: Monoliths"
+            },
+            "id": {
+                "modrinth": "qYtXvlBc"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ancient_remnants-1.5.2+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qYtXvlBc/versions/R7lHZHzN/ancient_remnants-1.5.2+1.21.1-neoforge.jar",
+                    "id": "R7lHZHzN",
+                    "parent_id": "qYtXvlBc",
+                    "hashes": {
+                        "sha512": "1ae2aca9e499883cc23e6c9c274fe76cbb436ae00607166413cefb7f475ab0173c842f6c08aa51af9a78ca275d1a977fe8d8510557837a7c2c6264135277d6d6",
+                        "sha1": "febbd4abcd8dc099f105802f6edb5bbaef0e79d6"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK"
+                    ],
+                    "size": 9637271,
+                    "date_published": "2026-10-18T01:45:56.927891Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Gyht5f4vFDxTaEXa",
+            "pakku_links": [
+                "mIkIZd7a0chl4X2b",
+                "o0Y8R7IYElc9cRP3"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "aquamirae"
+            },
+            "name": {
+                "modrinth": "Aquamirae"
+            },
+            "id": {
+                "modrinth": "k23mNPhZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "aquamirae-neoforge-1.21.1-7.2.13.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/k23mNPhZ/versions/lKu7coya/aquamirae-neoforge-1.21.1-7.2.13.jar",
+                    "id": "lKu7coya",
+                    "parent_id": "k23mNPhZ",
+                    "hashes": {
+                        "sha512": "90fe46c41a0f44b1cdc64cf59e4000b7e20af3edbde8695b5c1350fe044123f02f6ba1f2b50f435bd1e12c5587a21be3cf77f078060a2029a943f8da6d9f9395",
+                        "sha1": "9ecfe49fcdc9266d4e2d3c6a05b7374ebc5f6f45"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK",
+                        "8BmcQJ2H"
+                    ],
+                    "size": 26105694,
+                    "date_published": "2026-10-17T18:53:10.917899Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ToYelDQ5ekgiMLQS",
+            "pakku_links": [
+                "ariBJfsdPwp6KF6h",
+                "3cozmQi2ZCjLgQEy",
+                "6SFkZUThHvgxSVxU",
+                "tojm0RKMqoY0CScO"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "archers"
+            },
+            "name": {
+                "modrinth": "Archers (RPG Series)"
+            },
+            "id": {
+                "modrinth": "QgooUXAJ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "archers-neoforge-3.1.3+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QgooUXAJ/versions/7oSRQwU0/archers-neoforge-3.1.3+1.21.1.jar",
+                    "id": "7oSRQwU0",
+                    "parent_id": "QgooUXAJ",
+                    "hashes": {
+                        "sha512": "97f0f02d8f4dd8ab655ef6eb08b04e9345b6dc1ad72ad6a385617fa78cc0be9e8ec3209ca1c15fd03bf29a0ee844481f673278996a77b7f8d7949b2e80adaa52",
+                        "sha1": "75164980b2e88b5a1f1fffb7fdcffb51d2f7d8a4"
+                    },
+                    "required_dependencies": [
+                        "LrYZi08Q",
+                        "XvoWJaA2",
+                        "AqaIIO6D",
+                        "onz2NN2n"
+                    ],
+                    "size": 903289,
+                    "date_published": "2026-09-26T15:47:39.133038Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cWoh2Tm0hqVNWNAM",
+            "pakku_links": [
+                "ToYelDQ5ekgiMLQS",
+                "uje0aO9VBk5PHEEZ",
+                "3cozmQi2ZCjLgQEy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "archers-expansion"
+            },
+            "name": {
+                "modrinth": "Archers Expansion (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "1BHIIm4m"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "archers_expansion-neoforge-2.2.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1BHIIm4m/versions/LJ5oq1qi/archers_expansion-neoforge-2.2.1+1.21.1.jar",
+                    "id": "LJ5oq1qi",
+                    "parent_id": "1BHIIm4m",
+                    "hashes": {
+                        "sha512": "10b316e77b924175056290521d025cd158f3e950f7dc36c968cf06d2f9ed866e948619acb81bb70d9f874e48af0a098238346da4a76a5d0934082c5172e49647",
+                        "sha1": "01cf6e0449b99ef6609dc005a6c0840e8be11898"
+                    },
+                    "required_dependencies": [
+                        "QgooUXAJ",
+                        "Wkc3lwHo",
+                        "XvoWJaA2"
+                    ],
+                    "size": 1038914,
+                    "date_published": "2026-10-24T16:29:44.582567Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tojm0RKMqoY0CScO",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "armor-model-api"
+            },
+            "name": {
+                "modrinth": "Armor Model API"
+            },
+            "id": {
+                "modrinth": "onz2NN2n"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "armor_model_api-neoforge-1.1.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/onz2NN2n/versions/QRkmKYGJ/armor_model_api-neoforge-1.1.0+1.21.1.jar",
+                    "id": "QRkmKYGJ",
+                    "parent_id": "onz2NN2n",
+                    "hashes": {
+                        "sha512": "01c6d40824aaacbfcf3b57a8e368959f7a16e067dbf397b55e5dd7803bd9e65595b8967c0c1a19dfbbd46e1fb2c7ad2e2adf968509ec8fc1a2e77e8623c61c68",
+                        "sha1": "616a2e4578b4b41af2752459fd12b970fa4809c6"
+                    },
+                    "required_dependencies": [],
+                    "size": 91856,
+                    "date_published": "2026-09-02T16:45:57.788754Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kJxUm3x5qkN8fXuI",
+            "pakku_links": [
+                "tojm0RKMqoY0CScO",
+                "3cozmQi2ZCjLgQEy",
+                "6SFkZUThHvgxSVxU"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "armory-rpg-series"
+            },
+            "name": {
+                "modrinth": "Armory (RPG Series)"
+            },
+            "id": {
+                "modrinth": "PJvJUdGw"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "armory-neoforge-1.5.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PJvJUdGw/versions/51cccxUm/armory-neoforge-1.5.2+1.21.1.jar",
+                    "id": "51cccxUm",
+                    "parent_id": "PJvJUdGw",
+                    "hashes": {
+                        "sha512": "3477dafd47009ebee1e8be583182570088e2653680bd6a8050df0e215e896dd6c7fe874ab478314da6ef2993d61433454eab03d0133160ddaa2c4da2b81dd556",
+                        "sha1": "18d359ba9bf1d400de3190bd6f89317d97210982"
+                    },
+                    "required_dependencies": [
+                        "onz2NN2n",
+                        "XvoWJaA2",
+                        "AqaIIO6D"
+                    ],
+                    "size": 627411,
+                    "date_published": "2026-09-01T20:37:13.363430Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9uxGCJ2sUgCi2Qbk",
+            "pakku_links": [
+                "mIkIZd7a0chl4X2b"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "ars-elixirum"
+            },
+            "name": {
+                "modrinth": "Ars Elixirum"
+            },
+            "id": {
+                "modrinth": "oYe4cXFm"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "elixirum-neoforge-1.21.1-0.2.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/oYe4cXFm/versions/BWFdlSBY/elixirum-neoforge-1.21.1-0.2.2.jar",
+                    "id": "BWFdlSBY",
+                    "parent_id": "oYe4cXFm",
+                    "hashes": {
+                        "sha512": "0a20deba725570ea683b200e36e7e1dceca2c481914164683b82a484366b0faa443b1461eeca77531241f8a8ecbf75c688f1778264083647b7083130621d72f7",
+                        "sha1": "204ef1e00e1ea27bc8fff320dda19da4c668da89"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK"
+                    ],
+                    "size": 12448858,
+                    "date_published": "2024-10-25T21:04:42.748041Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lE440WUjpsPhBphZ",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "7bzrl3hlyYx20aUB",
+                "6SFkZUThHvgxSVxU"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "arsenal-rpg-series"
+            },
+            "name": {
+                "modrinth": "Arsenal (RPG Series)"
+            },
+            "id": {
+                "modrinth": "LiP9Q3KV"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "arsenal-neoforge-1.5.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LiP9Q3KV/versions/rYyhslig/arsenal-neoforge-1.5.0+1.21.1.jar",
+                    "id": "rYyhslig",
+                    "parent_id": "LiP9Q3KV",
+                    "hashes": {
+                        "sha512": "e810ad0d0f2759bf1567d67561425c3ba9ffc5660552a4d6f4e5822c350a31ca66f8f3af9695a99e9a784b31d9b5342409b690f2d063f5ca0a0af2651124a217",
+                        "sha1": "60a4017c070443fe2e18b3c7cfe0385923696346"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "y9clIFY4",
+                        "AqaIIO6D"
+                    ],
+                    "size": 1224482,
+                    "date_published": "2026-08-20T21:26:52.023852Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "murgvljsccjK5SjL",
+            "pakku_links": [
+                "6SFkZUThHvgxSVxU",
+                "3cozmQi2ZCjLgQEy",
+                "uje0aO9VBk5PHEEZ",
+                "tojm0RKMqoY0CScO",
+                "ariBJfsdPwp6KF6h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "bard-more-rpg-classes"
+            },
+            "name": {
+                "modrinth": "Bard (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "kL7Bjgmw"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bards_rpg-neoforge-1.2.0-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kL7Bjgmw/versions/lbRjIthS/bards_rpg-neoforge-1.2.0-1.21.1.jar",
+                    "id": "lbRjIthS",
+                    "parent_id": "kL7Bjgmw",
+                    "hashes": {
+                        "sha512": "500e7fc00c234e3ad4aa80828294ec03609253f7588e15f5eca5701877fed389f502c688694edfcd075ac9524f2ca14b25682fc23c763e8d38866bfc0a524e22",
+                        "sha1": "430a133ef0a8d3fba2825200ef60f277227e383c"
+                    },
+                    "required_dependencies": [
+                        "AqaIIO6D",
+                        "XvoWJaA2",
+                        "Wkc3lwHo",
+                        "onz2NN2n",
+                        "LrYZi08Q"
+                    ],
+                    "size": 14173341,
+                    "date_published": "2026-10-11T13:10:56.664505Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aBmNmgcbpBk8bOTq",
+            "pakku_links": [
+                "tojm0RKMqoY0CScO",
+                "3cozmQi2ZCjLgQEy",
+                "uje0aO9VBk5PHEEZ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "berserker-rpg-class"
+            },
+            "name": {
+                "modrinth": "Berserker (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "8hqOZzxM"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "berserker_rpg-neoforge-3.2.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8hqOZzxM/versions/val86kc4/berserker_rpg-neoforge-3.2.0+1.21.1.jar",
+                    "id": "val86kc4",
+                    "parent_id": "8hqOZzxM",
+                    "hashes": {
+                        "sha512": "3cfee68ae14121e17706bbeaf6afa5b8278ad4d1fd8a678a4075bb07e9d84aae5e67390bca410e9903292de5e065159bd94198d5489f5a534d22d53aa7c79a6a",
+                        "sha1": "2dc8785c04f69685f5095426b49dc81bb3758ada"
+                    },
+                    "required_dependencies": [
+                        "onz2NN2n",
+                        "XvoWJaA2",
+                        "Wkc3lwHo"
+                    ],
+                    "size": 629944,
+                    "date_published": "2026-10-11T13:30:25.686876Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lmIK6BdtOCebYjSl",
+            "pakku_links": [
+                "pByuHguRlMENo7vF",
+                "PBuqOeCwOTuAxC37"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "better-combat"
+            },
+            "name": {
+                "modrinth": "Better Combat"
+            },
+            "id": {
+                "modrinth": "5sy6g3kz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bettercombat-neoforge-2.4.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/VhIOvcXP/bettercombat-neoforge-2.4.0+1.21.1.jar",
+                    "id": "VhIOvcXP",
+                    "parent_id": "5sy6g3kz",
+                    "hashes": {
+                        "sha512": "db24730a42ae7e2dd546ee031d2f5e0dd6f9896418417a529fa21a44121761ebb29c8b8299db8f20500f7497f7b60a7d793b66c93abf37a8ea0aa3edafd80eb6",
+                        "sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb"
+                    },
+                    "required_dependencies": [
+                        "gedNE4y2",
+                        "9s6osm5g"
+                    ],
+                    "size": 1045389,
+                    "date_published": "2026-07-14T10:59:20.462587Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Wvl7yTXtZ4TOO0vW",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "bundle-api"
+            },
+            "name": {
+                "modrinth": "Bundle API"
+            },
+            "id": {
+                "modrinth": "n8QN6Z1a"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bundle-api-neoforge-1.1.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/n8QN6Z1a/versions/w5F5wdko/bundle-api-neoforge-1.1.0.jar",
+                    "id": "w5F5wdko",
+                    "parent_id": "n8QN6Z1a",
+                    "hashes": {
+                        "sha512": "b9775122f35f84a361342b1968ba132ab627d2b253d46e2382283af57f9d3f53e6138bb9afe7b32e992f63317c84ccadb78ec28e2791b5f97dbe9c65e4a5d289",
+                        "sha1": "49ea32e2872c9738363eb76a97ce0553bd2ff756"
+                    },
+                    "required_dependencies": [],
+                    "size": 64124,
+                    "date_published": "2025-09-17T14:58:18.747610Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "PBuqOeCwOTuAxC37",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "cloth-config"
+            },
+            "name": {
+                "modrinth": "Cloth Config API"
+            },
+            "id": {
+                "modrinth": "9s6osm5g"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "cloth-config-15.0.140-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+                    "id": "izKINKFg",
+                    "parent_id": "9s6osm5g",
+                    "hashes": {
+                        "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+                        "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+                    },
+                    "required_dependencies": [],
+                    "size": 1163890,
+                    "date_published": "2024-09-16T17:18:02.926305Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cbceCLOZP2y38fN8",
+            "pakku_links": [
+                "PBuqOeCwOTuAxC37",
+                "pByuHguRlMENo7vF"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "combat-roll"
+            },
+            "name": {
+                "modrinth": "Combat Roll"
+            },
+            "id": {
+                "modrinth": "wGKYL7st"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "combat_roll-neoforge-2.0.6+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FT7t1n1a/combat_roll-neoforge-2.0.6+1.21.1.jar",
+                    "id": "FT7t1n1a",
+                    "parent_id": "wGKYL7st",
+                    "hashes": {
+                        "sha512": "2f75b0865c6f342bc7f0fe8abb6e161befae64dd23ad73bc2ed5b6aa892055ee886d63d061afa9323f3056c5ba39621226b712d2435168c5fb8f856cebd27c16",
+                        "sha1": "8b9676996e2b49520ac29d92e6068089c5f40baa"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "gedNE4y2"
+                    ],
+                    "size": 193381,
+                    "date_published": "2025-12-17T23:19:11.253603Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QwuFvJZoLYVVxgER",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "critical-strike"
+            },
+            "name": {
+                "modrinth": "Critical Strike"
+            },
+            "id": {
+                "modrinth": "ilvNBzFn"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "critical_strike-neoforge-1.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ilvNBzFn/versions/2LZ76MSH/critical_strike-neoforge-1.0.4+1.21.1.jar",
+                    "id": "2LZ76MSH",
+                    "parent_id": "ilvNBzFn",
+                    "hashes": {
+                        "sha512": "80b98158f2ad35c26890282907f0ad720fb2378539ae383ecf69e3c267a3c4cb492703e0c1ec34ba6eaa87e2e4c9b17838955bcc8bf12b475fbf80d35a9efdb5",
+                        "sha1": "e6bf40bd03826c5ce2d57153b8bd9f3463cf5111"
+                    },
+                    "required_dependencies": [],
+                    "size": 133273,
+                    "date_published": "2025-11-15T11:36:03.735831Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lerdO7OatibR9g9A",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "curios"
+            },
+            "name": {
+                "modrinth": "Curios API"
+            },
+            "id": {
+                "modrinth": "vvuO3ImH"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "curios-neoforge-9.5.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1+1.21.1.jar",
+                    "id": "yohfFbgD",
+                    "parent_id": "vvuO3ImH",
+                    "hashes": {
+                        "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
+                        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+                    },
+                    "required_dependencies": [],
+                    "size": 410690,
+                    "date_published": "2025-05-14T13:34:47.415840Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "EgUVGnwIn1c58wyO",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "dungeon-difficulty"
+            },
+            "name": {
+                "modrinth": "Dungeon Difficulty"
+            },
+            "id": {
+                "modrinth": "ENZmbSFZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "dungeon_difficulty-neoforge-3.9.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ENZmbSFZ/versions/uwoMCnrI/dungeon_difficulty-neoforge-3.9.2+1.21.1.jar",
+                    "id": "uwoMCnrI",
+                    "parent_id": "ENZmbSFZ",
+                    "hashes": {
+                        "sha512": "98bbb3fb956ba5ad5904a5ebdebf33bdff2bae3d0a438ccc8abced7d2f61f99c1d9b71828fbc807c3d2e4b85cbb753ae1b9dc6384a1dd4ed0fbb1e172679fa37",
+                        "sha1": "497d435a6be412defe8aabaf391dbfd3e98d7a87"
+                    },
+                    "required_dependencies": [],
+                    "size": 223237,
+                    "date_published": "2026-10-09T19:01:54.737372Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "T3Zt9I1ylzkzyDc1",
+            "pakku_links": [
+                "MDRI8MCQOiNi5ext",
+                "3cozmQi2ZCjLgQEy",
+                "uje0aO9VBk5PHEEZ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "elemental-wizards-rpg"
+            },
+            "name": {
+                "modrinth": "Elemental Wizards (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "PeZ4h4i0"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "elemental_wizards_rpg-neoforge-3.2.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PeZ4h4i0/versions/ILCiLArI/elemental_wizards_rpg-neoforge-3.2.2+1.21.1.jar",
+                    "id": "ILCiLArI",
+                    "parent_id": "PeZ4h4i0",
+                    "hashes": {
+                        "sha512": "4ed741dc63c878a52b7127e2e1fc7e9562e1099dd340364fc25c7a1b62403a94080c8e3beb60b8d03053f8c8454aa74bd6da2d389ba37cdb2980955c0da5de88",
+                        "sha1": "d01362cf5a2459d6cc0f79ec3df7acd1a86daa7b"
+                    },
+                    "required_dependencies": [
+                        "NkGaQMDA",
+                        "XvoWJaA2",
+                        "Wkc3lwHo"
+                    ],
+                    "size": 1440655,
+                    "date_published": "2026-10-25T05:42:59.558753Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "rV9bI8PKnqOis5cL",
+            "pakku_links": [
+                "uje0aO9VBk5PHEEZ",
+                "3cozmQi2ZCjLgQEy",
+                "tojm0RKMqoY0CScO"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "forcemaster-rpg-class"
+            },
+            "name": {
+                "modrinth": "Forcemaster (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "K3yHebFL"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "forcemaster_rpg-neoforge-3.2.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/K3yHebFL/versions/fyug07lZ/forcemaster_rpg-neoforge-3.2.0+1.21.1.jar",
+                    "id": "fyug07lZ",
+                    "parent_id": "K3yHebFL",
+                    "hashes": {
+                        "sha512": "1984102770001c9580622060e3dc74689a67e0b76b897f298f58136f803064a08972dd0e24abe6b2958c13b646e7a64bfee13a804c9ab803941db903cf679048",
+                        "sha1": "23cc7401caadefe68b947eee77a8d2737a1cc03a"
+                    },
+                    "required_dependencies": [
+                        "Wkc3lwHo",
+                        "XvoWJaA2",
+                        "onz2NN2n"
+                    ],
+                    "size": 693810,
+                    "date_published": "2026-10-11T13:31:38.825320Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "mIkIZd7a0chl4X2b",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "fragmentum"
+            },
+            "name": {
+                "modrinth": "Fragmentum"
+            },
+            "id": {
+                "modrinth": "49C5QgTK"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/kCXNhuIV/fragmentum-5.4.0+1.21.1-neoforge.jar",
+                    "id": "kCXNhuIV",
+                    "parent_id": "49C5QgTK",
+                    "hashes": {
+                        "sha512": "426b3a7f2085266ae231d7ef81092baabb0409bbf222b9220472dd3ba482840a0850047aabc4b59d20fd65170ec9920559d29df6527d8119ecf02c69cfa78e53",
+                        "sha1": "711f46b591cbee203e68cf023277dae9060725f8"
+                    },
+                    "required_dependencies": [],
+                    "size": 7815344,
+                    "date_published": "2026-10-16T01:10:43.968544Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tXXLUdTHTFQ9M5Dh",
+            "pakku_links": [
+                "ariBJfsdPwp6KF6h"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "gazebos"
+            },
+            "name": {
+                "modrinth": "Gazebos (RPG Series)"
+            },
+            "id": {
+                "modrinth": "XIpMGI6r"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "gazebo-neoforge-2.2.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/ktRCCPX3/gazebo-neoforge-2.2.0+1.21.1.jar",
+                    "id": "ktRCCPX3",
+                    "parent_id": "XIpMGI6r",
+                    "hashes": {
+                        "sha512": "2346b1400e8f44567a6c0d939ce3ce1b2886ddef958915992c0cbc7886642a1991fcae1c8df01cfe84560cc9d412c8206edceb575b01131db4e927beb8ca4358",
+                        "sha1": "0ddeb9ccb65c8d78037c6858673c60d226013d00"
+                    },
+                    "required_dependencies": [
+                        "LrYZi08Q"
+                    ],
+                    "size": 112399,
+                    "date_published": "2026-08-20T20:23:37.284186Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "o0Y8R7IYElc9cRP3",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "geckolib"
+            },
+            "name": {
+                "modrinth": "Geckolib"
+            },
+            "id": {
+                "modrinth": "8BmcQJ2H"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "geckolib-neoforge-1.21.1-4.9.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar",
+                    "id": "Grwn5rUB",
+                    "parent_id": "8BmcQJ2H",
+                    "hashes": {
+                        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd",
+                        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
+                    },
+                    "required_dependencies": [],
+                    "size": 634531,
+                    "date_published": "2026-09-16T07:34:19.892008Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jt5Al9aN9VjCA6IK",
+            "pakku_links": [
+                "lerdO7OatibR9g9A",
+                "ariBJfsdPwp6KF6h",
+                "UmzCaf7AsRKe0u3f",
+                "6SFkZUThHvgxSVxU"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "jewelry"
+            },
+            "name": {
+                "modrinth": "Jewelry (RPG Series)"
+            },
+            "id": {
+                "modrinth": "sNJAIjUm"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "jewelry-neoforge-2.5.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sNJAIjUm/versions/iLTExB6G/jewelry-neoforge-2.5.1+1.21.1.jar",
+                    "id": "iLTExB6G",
+                    "parent_id": "sNJAIjUm",
+                    "hashes": {
+                        "sha512": "7c7a648e2ec1d5a1dd4bb7768627ebb9984e74c68e32a4ed0ac6a6839701c01f759673d43723314b1ba30cf652f411ffd5e31b57cb611736d02f2a799c9d00b8",
+                        "sha1": "b284c9b53ada2912ed49728d7e6846f8d2f89b1f"
+                    },
+                    "required_dependencies": [
+                        "vvuO3ImH",
+                        "LrYZi08Q",
+                        "8ooWzSQP",
+                        "AqaIIO6D"
+                    ],
+                    "size": 628210,
+                    "date_published": "2026-09-28T19:33:26.145511Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4rgh9LLyLPN07r8D",
+            "pakku_links": [
+                "ToYelDQ5ekgiMLQS",
+                "uje0aO9VBk5PHEEZ",
+                "3cozmQi2ZCjLgQEy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lne-archers"
+            },
+            "name": {
+                "modrinth": "LNE Archers Add-On"
+            },
+            "id": {
+                "modrinth": "Zl6rTul9"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "lne_archers-neoforge-1.3.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Zl6rTul9/versions/ZRmE8tjd/lne_archers-neoforge-1.3.0+1.21.1.jar",
+                    "id": "ZRmE8tjd",
+                    "parent_id": "Zl6rTul9",
+                    "hashes": {
+                        "sha512": "9185b5e53a37d2d396d3d49d57cd14d7d09f1c644f43758ca8753f9703e69819168f255414f719c5e58efc08109befc08dc899987c888b9d2c3180f89415c24d",
+                        "sha1": "d120ab53897bc16657a7c07ad38b292f700acc0e"
+                    },
+                    "required_dependencies": [
+                        "QgooUXAJ",
+                        "Wkc3lwHo",
+                        "XvoWJaA2"
+                    ],
+                    "size": 1038387,
+                    "date_published": "2026-10-11T16:32:35.118651Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "zFNjUol9idlRnWsY",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "NXSFVVKmJFRz6e7W",
+                "uje0aO9VBk5PHEEZ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lne-paladins"
+            },
+            "name": {
+                "modrinth": "LNE Paladins & Priests Add On"
+            },
+            "id": {
+                "modrinth": "ysICqMga"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "lne_paladins-neoforge-1.3.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ysICqMga/versions/M37S70Ed/lne_paladins-neoforge-1.3.0+1.21.1.jar",
+                    "id": "M37S70Ed",
+                    "parent_id": "ysICqMga",
+                    "hashes": {
+                        "sha512": "7ef3fc11207bee96ead36f384a06c3f7f558b204e762f5c0b99f7b063ae867ddc578bd7c7841466ce72b5246c4fc2946ce87f5b67e643c96d43a939eac0b3029",
+                        "sha1": "5868cdfddb9f2640ddc90c409aa13de7406c4501"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "FxXkHaLe",
+                        "Wkc3lwHo"
+                    ],
+                    "size": 695025,
+                    "date_published": "2026-10-11T16:33:38.024996Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BSwBsp6Ci4sCHgan",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "uje0aO9VBk5PHEEZ",
+                "frLeMMSFafNi4JdW"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lne-rogues"
+            },
+            "name": {
+                "modrinth": "LNE Rogues & Warriors Add-On"
+            },
+            "id": {
+                "modrinth": "JEvQhsp7"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "lne_rogues-neoforge-1.3.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JEvQhsp7/versions/cNRkMrae/lne_rogues-neoforge-1.3.0+1.21.1.jar",
+                    "id": "cNRkMrae",
+                    "parent_id": "JEvQhsp7",
+                    "hashes": {
+                        "sha512": "4824a8c9cda6f81c14fa612e4bf5d42562d84c77ef25c0efcd45afb8301f8697a00b174b6182dbd1307196aad5d954a7a83de06b85a462ccf65e12cbb4fcbbea",
+                        "sha1": "f08306cd24b2285c2e1bc795debd2d1a289fbd35"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "Wkc3lwHo",
+                        "3MKqoGuP"
+                    ],
+                    "size": 358516,
+                    "date_published": "2026-10-11T16:34:41.150950Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xvM70tCGkNTNn8Ej",
+            "pakku_links": [
+                "UmzCaf7AsRKe0u3f",
+                "3cozmQi2ZCjLgQEy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lne-wizards"
+            },
+            "name": {
+                "modrinth": "LNE Wizards Add-On"
+            },
+            "id": {
+                "modrinth": "vukREL4F"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "lne_wizards-neoforge-1.3.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vukREL4F/versions/mhd7PeON/lne_wizards-neoforge-1.3.1+1.21.1.jar",
+                    "id": "mhd7PeON",
+                    "parent_id": "vukREL4F",
+                    "hashes": {
+                        "sha512": "5d916ad045c2f6e9eda5cbd6a4eaaac7938386a11d4c44e973f46cc94585a2bc9c7bd62ffe0d72bc6bcf918554f93d4c453d2ba5a3023ee68024742157a7b412",
+                        "sha1": "f31ad421f5e81c48d2c04cdb77a8686dacb6bbf1"
+                    },
+                    "required_dependencies": [
+                        "8ooWzSQP",
+                        "XvoWJaA2"
+                    ],
+                    "size": 553778,
+                    "date_published": "2026-10-24T16:31:17.262635Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BlPzBny9QTUW2Uqj",
+            "pakku_links": [
+                "mIkIZd7a0chl4X2b"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "loot-journal"
+            },
+            "name": {
+                "modrinth": "Loot Journal: Pickup Notifier"
+            },
+            "id": {
+                "modrinth": "OJ6ZYz5L"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "loot_journal-neoforge-1.21.1-6.2.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/zyIMDDzM/loot_journal-neoforge-1.21.1-6.2.2.jar",
+                    "id": "zyIMDDzM",
+                    "parent_id": "OJ6ZYz5L",
+                    "hashes": {
+                        "sha512": "da6be07bebe1f2f38242568a49e13020c4cbead8e563d02d5106110ce3bc34525c2388ce47d36b477db8dcc7661afc38fa9eb243cc42c53737c531e0b5189c77",
+                        "sha1": "9f6030dd1f081bc71f24e5c50ff83d58ce8e4cc4"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK"
+                    ],
+                    "size": 304549,
+                    "date_published": "2026-09-19T15:55:05.102911Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LZQDxd6Aw9wwvoqq",
+            "pakku_links": [
+                "tu6VyUaJtlu6Mvqz",
+                "nXw15yhuGXqO7hSL",
+                "uje0aO9VBk5PHEEZ",
+                "3cozmQi2ZCjLgQEy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "more-rpg-classes-skill-tree"
+            },
+            "name": {
+                "modrinth": "More RPG Classes - Skill Tree (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "3OYmNUDq"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "mrpgc_skill_tree-neoforge-1.3.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3OYmNUDq/versions/bhovvpkS/mrpgc_skill_tree-neoforge-1.3.1+1.21.1.jar",
+                    "id": "bhovvpkS",
+                    "parent_id": "3OYmNUDq",
+                    "hashes": {
+                        "sha512": "d9eacb532b4defae372deec892dec7a9f0d32533aaa000ac5b27aff8fb2fa31bf24f0b8109101651768ce6b50bc3474fe5c3f2cc0a31a41aee9c7229998331b8",
+                        "sha1": "17b2f8e8ec84963fee25946272d5efa0a6a1fed9"
+                    },
+                    "required_dependencies": [
+                        "PjDhruSC",
+                        "hqQqvaa4",
+                        "Wkc3lwHo",
+                        "XvoWJaA2"
+                    ],
+                    "size": 1598924,
+                    "date_published": "2026-10-24T16:37:40.697128Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uje0aO9VBk5PHEEZ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "more-rpg-library"
+            },
+            "name": {
+                "modrinth": "More RPG Library"
+            },
+            "id": {
+                "modrinth": "Wkc3lwHo"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "mrpg-lib-neoforge-2.8.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Wkc3lwHo/versions/Td3qABfI/mrpg-lib-neoforge-2.8.1+1.21.1.jar",
+                    "id": "Td3qABfI",
+                    "parent_id": "Wkc3lwHo",
+                    "hashes": {
+                        "sha512": "61b17dd057f0150784d63a8660be4afb30cf563ea462bf8e8635a77825254a15f607319cb9e18d521d80d3b661ab0c52fbbdb790ed254a9e35c0dc24f05d3183",
+                        "sha1": "b6b017c46ef2ab4ed9faf93218fe7251602b45da"
+                    },
+                    "required_dependencies": [],
+                    "size": 2288423,
+                    "date_published": "2026-10-24T16:23:52.569653Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oIwhSJvqcAJYiHp2",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "UmzCaf7AsRKe0u3f"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "more-relics-rpg"
+            },
+            "name": {
+                "modrinth": "More Relics (RPG Series Plus)"
+            },
+            "id": {
+                "modrinth": "IZ3b4kEa"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "more_relics-neoforge-1.4.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IZ3b4kEa/versions/X3ez2vKw/more_relics-neoforge-1.4.0+1.21.1.jar",
+                    "id": "X3ez2vKw",
+                    "parent_id": "IZ3b4kEa",
+                    "hashes": {
+                        "sha512": "e74a1e3bff2e9798603c76b8556ed251a6df0078a7dddc26284e4fb2618233c69669527984aecffed55c1073ac92d3944bb87db73ab79fbba8d4cc62e6448a1b",
+                        "sha1": "04ddba0daf4158ec9d2e248473f6eda8a9c39ba6"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "8ooWzSQP"
+                    ],
+                    "size": 558389,
+                    "date_published": "2026-10-11T13:32:30.051271Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RUTYTpHMJRGkRwZI",
+            "pakku_links": [
+                "mIkIZd7a0chl4X2b"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "obscure-tooltips"
+            },
+            "name": {
+                "modrinth": "Obscure Tooltips"
+            },
+            "id": {
+                "modrinth": "5vetjDBY"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5vetjDBY/versions/Yo2oNdw1/obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+                    "id": "Yo2oNdw1",
+                    "parent_id": "5vetjDBY",
+                    "hashes": {
+                        "sha512": "08c4259ff4ad3af1d146581f9cd30ac403c5e2cc410ed685f0a32227062a40363986b9c8af46423dce3240d417b9d8e139cbee1117d8eb50b1da7e0877815fa5",
+                        "sha1": "35469a3b86c85e2e535b559280e3a140d1acdc74"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK"
+                    ],
+                    "size": 448989,
+                    "date_published": "2026-09-19T15:53:14.615360Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "NXSFVVKmJFRz6e7W",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "tojm0RKMqoY0CScO",
+                "ariBJfsdPwp6KF6h",
+                "jEdPbKd9HUTaucek",
+                "7bzrl3hlyYx20aUB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "paladins-and-priests"
+            },
+            "name": {
+                "modrinth": "Paladins & Priests (RPG Series)"
+            },
+            "id": {
+                "modrinth": "FxXkHaLe"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "paladins-neoforge-3.1.3+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/7oCw7txX/paladins-neoforge-3.1.3+1.21.1.jar",
+                    "id": "7oCw7txX",
+                    "parent_id": "FxXkHaLe",
+                    "hashes": {
+                        "sha512": "cd9ca1246543ba3ac95a0db4b7d173bb092f4c0e4b8f045cba929dddbca6cb45c0ed34c7d76c5d05fb11abed4dd190564bbac98af4abc8bfa61af73b87ebf419",
+                        "sha1": "4b322b6501b448e74ffded3b6a3aeb0376cceb16"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "onz2NN2n",
+                        "LrYZi08Q",
+                        "lP9Yrr1E",
+                        "y9clIFY4"
+                    ],
+                    "size": 3115770,
+                    "date_published": "2026-09-26T17:00:59.209960Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SJlCnveD5Q1XhhIv",
+            "pakku_links": [
+                "mIkIZd7a0chl4X2b"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "pillager-caravans"
+            },
+            "name": {
+                "modrinth": "Pillager Caravans"
+            },
+            "id": {
+                "modrinth": "8jJHxtdz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "caravans-neoforge-1.21.1-3.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8jJHxtdz/versions/jYXz3Oj1/caravans-neoforge-1.21.1-3.0.1.jar",
+                    "id": "jYXz3Oj1",
+                    "parent_id": "8jJHxtdz",
+                    "hashes": {
+                        "sha512": "d5e95343f1f39880287b5f080fe921533b773d942743e867e0e07493144e43c3e08eac75ebb3694fcc898b1b046ad1ea7d537f0b7774f10ff31fd5b287862786",
+                        "sha1": "5566d29201257cb778d743f5dd6929f0c938e92f"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK"
+                    ],
+                    "size": 216202,
+                    "date_published": "2026-09-19T15:51:11.191362Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nXw15yhuGXqO7hSL",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "skills"
+            },
+            "name": {
+                "modrinth": "Pufferfish's Skills"
+            },
+            "id": {
+                "modrinth": "hqQqvaa4"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "puffish_skills-0.19.2-1.21-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/8tfcI2wU/puffish_skills-0.19.2-1.21-neoforge.jar",
+                    "id": "8tfcI2wU",
+                    "parent_id": "hqQqvaa4",
+                    "hashes": {
+                        "sha512": "0dd07a6ca391ce00975f5b6c147cd993ce83d4ab3dde634885bc124f2d7fdfdcb631425539e2dbfdf7e0925795737c27bd4560aa5a6940ac0547dbd72c130b7f",
+                        "sha1": "e7439fa56036bfacf228269b8b89f10cbbba13fd"
+                    },
+                    "required_dependencies": [],
+                    "size": 652840,
+                    "date_published": "2026-10-08T19:21:41.790917Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6SFkZUThHvgxSVxU",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "ranged-weapon-api"
+            },
+            "name": {
+                "modrinth": "Ranged Weapon API"
+            },
+            "id": {
+                "modrinth": "AqaIIO6D"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/WxNYN3Zh/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
+                    "id": "WxNYN3Zh",
+                    "parent_id": "AqaIIO6D",
+                    "hashes": {
+                        "sha512": "e6a1c0de80b07f65874e2d9999ef7e98f7b5cce3c871a1bec7cbb74c693b34080563c25bd87c36fccd42f25c51dee183192e97d65ebd2c780a8a08adde13fd68",
+                        "sha1": "74a47fd693e7eb45d9fc0fe8e9058c5d02e610b2"
+                    },
+                    "required_dependencies": [],
+                    "size": 163099,
+                    "date_published": "2026-08-24T10:12:45.982146Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "8z5rGsQGE3MNdoK8",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "6SFkZUThHvgxSVxU"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "relics-rpg"
+            },
+            "name": {
+                "modrinth": "Relics (RPG Series)"
+            },
+            "id": {
+                "modrinth": "BDQucwF0"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "relics-neoforge-1.4.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BDQucwF0/versions/O6zfkTwx/relics-neoforge-1.4.0+1.21.1.jar",
+                    "id": "O6zfkTwx",
+                    "parent_id": "BDQucwF0",
+                    "hashes": {
+                        "sha512": "025308d0c11bd546c005a05a62f4f2eb973cc3c849423828b3c18a630e7f63d83909d52411a30cd118a80bdcae46f5adb704f3f3d8a7058e7292b128363faa1e",
+                        "sha1": "e02cba906f47f110e37d066f2dc2b2db095abbe9"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "AqaIIO6D"
+                    ],
+                    "size": 2183371,
+                    "date_published": "2026-08-20T20:27:44.009494Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "frLeMMSFafNi4JdW",
+            "pakku_links": [
+                "tojm0RKMqoY0CScO",
+                "3cozmQi2ZCjLgQEy",
+                "ariBJfsdPwp6KF6h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "rogues-and-warriors"
+            },
+            "name": {
+                "modrinth": "Rogues & Warriors (RPG Series)"
+            },
+            "id": {
+                "modrinth": "3MKqoGuP"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "rogues-neoforge-3.1.3+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3MKqoGuP/versions/WxwS7HDW/rogues-neoforge-3.1.3+1.21.1.jar",
+                    "id": "WxwS7HDW",
+                    "parent_id": "3MKqoGuP",
+                    "hashes": {
+                        "sha512": "2a2eb952c4aa74d67fccaca43b01f4769d92c0695d0af1d37580ff4c777d719717c6359d96e00df251d75d47111d437043c4541fd3622d96f2568bbf69bbe13d",
+                        "sha1": "3d1071bc13298dba6142b7c39395e9bb73cca100"
+                    },
+                    "required_dependencies": [
+                        "onz2NN2n",
+                        "XvoWJaA2",
+                        "LrYZi08Q"
+                    ],
+                    "size": 1751945,
+                    "date_published": "2026-09-26T15:48:37.129806Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jEdPbKd9HUTaucek",
+            "pakku_links": [
+                "Wvl7yTXtZ4TOO0vW"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "runes"
+            },
+            "name": {
+                "modrinth": "Runes"
+            },
+            "id": {
+                "modrinth": "lP9Yrr1E"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "runes-neoforge-1.3.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Br4oP4M6/runes-neoforge-1.3.2+1.21.1.jar",
+                    "id": "Br4oP4M6",
+                    "parent_id": "lP9Yrr1E",
+                    "hashes": {
+                        "sha512": "df0a53a540e886223004a42e9b3f40e331d0d004bd60ecd433ea058515092ad7dc81c31a876b441b6c2ca007d9dfbcb699810495e0608f6bbf29cec46b057339",
+                        "sha1": "9eb165234592574db6d57cc6deb6d252f822e53e"
+                    },
+                    "required_dependencies": [
+                        "n8QN6Z1a"
+                    ],
+                    "size": 329875,
+                    "date_published": "2026-08-21T22:09:42.138364Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7bzrl3hlyYx20aUB",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "shield-api"
+            },
+            "name": {
+                "modrinth": "Shield API"
+            },
+            "id": {
+                "modrinth": "y9clIFY4"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "shield_api-neoforge-2.2.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/y9clIFY4/versions/fgK2cNYi/shield_api-neoforge-2.2.0.jar",
+                    "id": "fgK2cNYi",
+                    "parent_id": "y9clIFY4",
+                    "hashes": {
+                        "sha512": "8c4e5ade7539bc8b27bc456b5a00581472b7ff255a7e0ec828d32fd9aa0addc4245c78f7537565f8517852bf00b477837b0fbb1953e89075e5906e9c71dc22f2",
+                        "sha1": "dfbb73a2a92bac5c06f6b0a747a6660a3e04ed0b"
+                    },
+                    "required_dependencies": [],
+                    "size": 45428,
+                    "date_published": "2025-10-27T15:39:30.281117Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tu6VyUaJtlu6Mvqz",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "nXw15yhuGXqO7hSL",
+                "QwuFvJZoLYVVxgER",
+                "6SFkZUThHvgxSVxU"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "skill-tree"
+            },
+            "name": {
+                "modrinth": "Skill Tree (RPG Series)"
+            },
+            "id": {
+                "modrinth": "PjDhruSC"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "skill_tree-neoforge-1.6.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PjDhruSC/versions/Vr94BeiF/skill_tree-neoforge-1.6.1+1.21.1.jar",
+                    "id": "Vr94BeiF",
+                    "parent_id": "PjDhruSC",
+                    "hashes": {
+                        "sha512": "29c05b2049f2baffe371ea8e039106fb8f68854b6ff2877ff06ee78fb2e8e179eef0fc6850324c3eb2778caaa24de5e269dfc4c2b693c9d163c0d7b49410f3b4",
+                        "sha1": "6a013f49bb59efbf4c5174ed130dcdd55ba5250f"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "hqQqvaa4",
+                        "ilvNBzFn",
+                        "AqaIIO6D"
+                    ],
+                    "size": 2964225,
+                    "date_published": "2026-09-26T17:16:56.394717Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3cozmQi2ZCjLgQEy",
+            "pakku_links": [
+                "pByuHguRlMENo7vF",
+                "lerdO7OatibR9g9A",
+                "PBuqOeCwOTuAxC37",
+                "UmzCaf7AsRKe0u3f"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "spell-engine"
+            },
+            "name": {
+                "modrinth": "Spell Engine"
+            },
+            "id": {
+                "modrinth": "XvoWJaA2"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "spell_engine-neoforge-1.10.9+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/IYoY9AHA/spell_engine-neoforge-1.10.9+1.21.1.jar",
+                    "id": "IYoY9AHA",
+                    "parent_id": "XvoWJaA2",
+                    "hashes": {
+                        "sha512": "5b8006be48584abe2354f94ebea066d8f128da052039adcf8bd51247c984462b7755d45dd5dc5e0360afe964973fccc2eb652025cb1e493d036792c05700aec2",
+                        "sha1": "f0523fed97f6d9a2cbad86a76ae68d02edae702d"
+                    },
+                    "required_dependencies": [
+                        "gedNE4y2",
+                        "vvuO3ImH",
+                        "9s6osm5g",
+                        "8ooWzSQP"
+                    ],
+                    "size": 4629624,
+                    "date_published": "2026-09-29T18:23:10.936239Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "UmzCaf7AsRKe0u3f",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "spell-power"
+            },
+            "name": {
+                "modrinth": "Spell Power Attributes"
+            },
+            "id": {
+                "modrinth": "8ooWzSQP"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "spell_power-neoforge-1.6.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8ooWzSQP/versions/RFCD8Aio/spell_power-neoforge-1.6.0+1.21.1.jar",
+                    "id": "RFCD8Aio",
+                    "parent_id": "8ooWzSQP",
+                    "hashes": {
+                        "sha512": "b4f9ae2524783a2f1d4f16da73543f1073e17e7cb66a36235c4b54e74495d3b73892a342478cc760ec4c2bcf046578f3077af31013b48b04a9bde7facd48e281",
+                        "sha1": "29a1f6bf29db1868b3b22f3a8cf287b26a429ab2"
+                    },
+                    "required_dependencies": [],
+                    "size": 222955,
+                    "date_published": "2026-08-12T17:17:46.427906Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ariBJfsdPwp6KF6h",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "structure-pool-api"
+            },
+            "name": {
+                "modrinth": "Structure Pool API"
+            },
+            "id": {
+                "modrinth": "LrYZi08Q"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "structure_pool_api-neoforge-1.2.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/kdWVYKdx/structure_pool_api-neoforge-1.2.1+1.21.1.jar",
+                    "id": "kdWVYKdx",
+                    "parent_id": "LrYZi08Q",
+                    "hashes": {
+                        "sha512": "e5c433ce500f1f9350b41e804aca28d80a2fb4b72d01bb997aca59968c9e255eacfccd0fafd804e2c07ab5b4dba7448211fb827453467727de2b64bf2826ce6b",
+                        "sha1": "5150191b29de8462705e5aa715c2554a5744dc7b"
+                    },
+                    "required_dependencies": [],
+                    "size": 140459,
+                    "date_published": "2025-10-24T18:19:25.718679Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gDRTpNxEF1qabbGf",
+            "pakku_links": [
+                "ariBJfsdPwp6KF6h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "village-taverns"
+            },
+            "name": {
+                "modrinth": "Village Taverns (RPG Series)"
+            },
+            "id": {
+                "modrinth": "bj4a8NjJ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "village_taverns-neoforge-1.3.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bj4a8NjJ/versions/qhOcjQ6u/village_taverns-neoforge-1.3.0+1.21.1.jar",
+                    "id": "qhOcjQ6u",
+                    "parent_id": "bj4a8NjJ",
+                    "hashes": {
+                        "sha512": "b61a3746a56982ad6f1f7ba164317c83c8842e4881a95ba26526aa14db207305473d45ad5fd278b789dafb626b2bf32778cb096377214698429762586126a301",
+                        "sha1": "55f2d636fd51bad3de06402dcc17710583b0e479"
+                    },
+                    "required_dependencies": [
+                        "LrYZi08Q"
+                    ],
+                    "size": 132922,
+                    "date_published": "2026-08-24T23:39:48.344779Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "MDRI8MCQOiNi5ext",
+            "pakku_links": [
+                "3cozmQi2ZCjLgQEy",
+                "jEdPbKd9HUTaucek",
+                "tojm0RKMqoY0CScO",
+                "ariBJfsdPwp6KF6h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "wizards"
+            },
+            "name": {
+                "modrinth": "Wizards (RPG Series)"
+            },
+            "id": {
+                "modrinth": "NkGaQMDA"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "wizards-neoforge-3.1.3+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NkGaQMDA/versions/lxbf57N2/wizards-neoforge-3.1.3+1.21.1.jar",
+                    "id": "lxbf57N2",
+                    "parent_id": "NkGaQMDA",
+                    "hashes": {
+                        "sha512": "6e093d08930e7e6582bddfb54c5d3a662d1fd2701dd7ff2d84e77b17c3258b654847778a1c28713aa991dbae2a7caf5396760edcbc1bbefc9ae42e5c28dd36d4",
+                        "sha1": "be5513169318245e03a21a6e769ce347a4669bf4"
+                    },
+                    "required_dependencies": [
+                        "XvoWJaA2",
+                        "lP9Yrr1E",
+                        "onz2NN2n",
+                        "LrYZi08Q"
+                    ],
+                    "size": 4519814,
+                    "date_published": "2026-09-26T15:54:31.990831Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "pByuHguRlMENo7vF",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "playeranimator"
+            },
+            "name": {
+                "modrinth": "playerAnimator"
+            },
+            "id": {
+                "modrinth": "gedNE4y2"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4+1.21.1.jar",
+                    "id": "HJZB6bmA",
+                    "parent_id": "gedNE4y2",
+                    "hashes": {
+                        "sha512": "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f",
+                        "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
+                    },
+                    "required_dependencies": [],
+                    "size": 203149,
+                    "date_published": "2025-12-28T21:00:18.426451Z"
+                }
+            ]
+        }
+    ],
     "lockfile_version": 2
 }
