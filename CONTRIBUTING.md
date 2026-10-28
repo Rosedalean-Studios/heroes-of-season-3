@@ -24,3 +24,7 @@ Check `publish.release_type` before publishing. It must match the intended relea
 Set `MODRINTH_TOKEN` in the environment, in `~/.pakku/publish.env`, or in the `publish` object of `~/.pakku/pakku.json`. Do not put tokens in the project `pakku.json`. Protect local token files so other users cannot read them.
 
 The publisher uses Python 3 and the standard library. It creates exports under `build/`; do not commit generated files.
+
+## GitHub release
+
+After the release files are ready, run the **Release pack** workflow from the Actions tab on `main`. The release job runs only when the selected branch is `main`. It checks out that commit and creates a GitHub release with a tag that matches `pakku.json`. It fails if that tag already exists or if the export does not contain exactly one `.mrpack` file.
