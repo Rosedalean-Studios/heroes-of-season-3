@@ -687,7 +687,7 @@
         {
             "pakku_id": "iLzjldxZGVE3zPkN",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "baguettelib"
             },
@@ -1375,7 +1375,7 @@
         {
             "pakku_id": "xlAgjqN8mDwrEMKc",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "chipped-express"
             },
@@ -1779,7 +1779,7 @@
         {
             "pakku_id": "wwvDqWLYPtiaswkw",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "c2me-neoforge"
             },
@@ -1934,7 +1934,7 @@
                 "lerdO7OatibR9g9A"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "corpse-x-curios-api-compat"
             },
@@ -2891,7 +2891,7 @@
                 "IHEnMQSSmDzDvaS6"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "create-threaded-trains"
             },
@@ -3406,7 +3406,7 @@
         {
             "pakku_id": "EgUVGnwIn1c58wyO",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeon-difficulty"
             },
@@ -3444,7 +3444,7 @@
         {
             "pakku_id": "k5lktFeS6O8PbQSp",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeons-and-taverns"
             },
@@ -3482,7 +3482,7 @@
         {
             "pakku_id": "s6nbCKZnTyNYlffl",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeons-and-taverns-ancient-city-overhaul"
             },
@@ -3520,7 +3520,7 @@
         {
             "pakku_id": "wdrfP0oh7PLy3bNo",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeons-and-taverns-jungle-temple-overhaul"
             },
@@ -3558,7 +3558,7 @@
         {
             "pakku_id": "JUbgvGetJYxD2yuz",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeons-and-taverns-ocean-monument-overhaul"
             },
@@ -3596,7 +3596,7 @@
         {
             "pakku_id": "Ht3u5Rqqxl5sPBxd",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeons-and-taverns-pillager-outpost-overhaul"
             },
@@ -3634,7 +3634,7 @@
         {
             "pakku_id": "tyDrdGBMHg8yBz28",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeons-and-taverns-stronghold-overhaul"
             },
@@ -3672,7 +3672,7 @@
         {
             "pakku_id": "HJwTGmDFQe3q2PNb",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "dungeons-and-taverns-woodland-mansion-overhaul"
             },
@@ -4120,7 +4120,7 @@
                 "vtzkEReWqZXFYEdk"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "farmers-cutting-oh-the-biomes-weve-gone"
             },
@@ -4405,7 +4405,7 @@
                 "ariBJfsdPwp6KF6h"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "gazebos"
             },
@@ -4688,7 +4688,7 @@
                 "hmyujm0q5JFDjF8S"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "item-obliterator"
             },
@@ -5432,6 +5432,60 @@
                     "required_dependencies": [],
                     "size": 1075929,
                     "date_published": "2026-09-25T01:34:35.481814Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vflWyb3mRJXpYtnM",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "mandalas-gui-dark-mode"
+            },
+            "name": {
+                "modrinth": "Mandala's GUI - Dark mode"
+            },
+            "id": {
+                "modrinth": "h6zxsNVF"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "MandalasGUI+Dakmode_1.21.6_v2.1.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/h6zxsNVF/versions/Z2ajDlEE/MandalasGUI+Dakmode_1.21.6_v2.1.zip",
+                    "id": "Z2ajDlEE",
+                    "parent_id": "h6zxsNVF",
+                    "hashes": {
+                        "sha512": "cdfa5ab9fbda8986385b5e94338df86f80ba50b14d5a84c2b0a44477a012d846c784bc6edbe9ec04eff8acc659da8eb8f5dc51f72cbdfd653ba9d0cee24852f7",
+                        "sha1": "f1ab13b8b0ddf2130aff86f100dbf1f83a76ba66"
+                    },
+                    "required_dependencies": [],
+                    "size": 726042,
+                    "date_published": "2025-12-17T18:52:55.410390Z"
                 }
             ]
         },
@@ -6629,7 +6683,7 @@
                 "jbAFH1hHau1WlzMe"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "rightclickharvest"
             },
@@ -8036,7 +8090,7 @@
                 "dLzgeekVEmDsul2o"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "villager-names-serilum"
             },

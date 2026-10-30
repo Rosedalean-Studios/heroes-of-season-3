@@ -38,6 +38,60 @@
         },
         "oh-the-trees-youll-grow": {
             "side": "BOTH"
+        },
+        "baguettelib": {
+            "side": "BOTH"
+        },
+        "chipped-express": {
+            "side": "BOTH"
+        },
+        "c2me-neoforge": {
+            "side": "BOTH"
+        },
+        "corpse-x-curios-api-compat": {
+            "side": "BOTH"
+        },
+        "create-threaded-trains": {
+            "side": "BOTH"
+        },
+        "dungeon-difficulty": {
+            "side": "BOTH"
+        },
+        "dungeons-and-taverns": {
+            "side": "BOTH"
+        },
+        "dungeons-and-taverns-ancient-city-overhaul": {
+            "side": "BOTH"
+        },
+        "dungeons-and-taverns-jungle-temple-overhaul": {
+            "side": "BOTH"
+        },
+        "dungeons-and-taverns-ocean-monument-overhaul": {
+            "side": "BOTH"
+        },
+        "dungeons-and-taverns-pillager-outpost-overhaul": {
+            "side": "BOTH"
+        },
+        "dungeons-and-taverns-stronghold-overhaul": {
+            "side": "BOTH"
+        },
+        "dungeons-and-taverns-woodland-mansion-overhaul": {
+            "side": "BOTH"
+        },
+        "farmers-cutting-oh-the-biomes-weve-gone": {
+            "side": "BOTH"
+        },
+        "gazebos": {
+            "side": "BOTH"
+        },
+        "item-obliterator": {
+            "side": "BOTH"
+        },
+        "rightclickharvest": {
+            "side": "BOTH"
+        },
+        "villager-names-serilum": {
+            "side": "BOTH"
         }
     }
 }
