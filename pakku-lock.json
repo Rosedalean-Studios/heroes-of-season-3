@@ -135,6 +135,43 @@
             ]
         },
         {
+            "pakku_id": "0kndyi3ysLMPt7ZH",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "adorable-hamster-pets"
+            },
+            "name": {
+                "modrinth": "Adorable Hamster Pets"
+            },
+            "id": {
+                "modrinth": "LmrhZdK2"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "adorablehamsterpets-3.7.0-1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/LmrhZdK2/versions/LyCV3JSL/adorablehamsterpets-3.7.0-1.21.1+neoforge.jar",
+                    "id": "LyCV3JSL",
+                    "parent_id": "LmrhZdK2",
+                    "hashes": {
+                        "sha512": "0651244d2aaf4c127ee1818a24910bf6612a33bb3aa078217ee8c695abf2cbc8be118d29ed5e271f8f7ba316f146767b8882800a38713177993444db7df2041a",
+                        "sha1": "3d1bc31982eff30195e3a58247774b5136459e8d"
+                    },
+                    "required_dependencies": [],
+                    "size": 20292862,
+                    "date_published": "2026-09-08T16:59:10.199173Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pCjVapMCl4rmWhmn",
             "pakku_links": [
                 "QXJQdsFVwBMQ71dz"
@@ -5462,7 +5499,7 @@
         {
             "pakku_id": "3OTYo1o2k0o2kEGQ",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "sparsestructures"
             },
