@@ -5,12 +5,6 @@
     "paths": {
         "data_packs": "datapacks"
     },
-    "publish": {
-        "modrinth": "i41NNeZw",
-        "release_type": "alpha",
-        "changelog": "update-checker/versions/{version}/changelog.txt",
-        "metadata": "update-checker/meta.json"
-    },
     "projects": {
         "structure-pool-api": {
             "side": "BOTH"
@@ -40,6 +34,9 @@
             "side": "BOTH"
         },
         "Sparse Structures": {
+            "side": "BOTH"
+        },
+        "oh-the-trees-youll-grow": {
             "side": "BOTH"
         }
     }
