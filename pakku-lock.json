@@ -4778,6 +4778,49 @@
             ]
         },
         {
+            "pakku_id": "SoAp9L29oPFsSZgK",
+            "pakku_links": [
+                "EgZmpcuB8381vZcP"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "jei"
+            },
+            "name": {
+                "modrinth": "Just Enough Items (JEI)"
+            },
+            "id": {
+                "modrinth": "u6dRKJwZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "jei-1.21.1-neoforge-19.70.0.468.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/j41QZiGx/jei-1.21.1-neoforge-19.70.0.468.jar",
+                    "id": "j41QZiGx",
+                    "parent_id": "u6dRKJwZ",
+                    "hashes": {
+                        "sha512": "82a037748fdc95d1d5e47247f63c8a47cd43c9e7ef7368c31aa5e24da8ce4068bac549529b36d7eaf14131afc7803dfe9c6ac05cae2c177cbbd02ff8d76b58a9",
+                        "sha1": "92a2075b6085a3f05c36e59ad5aed6036dd748e4"
+                    },
+                    "required_dependencies": [
+                        "7tEfOcA7"
+                    ],
+                    "size": 4747150,
+                    "date_published": "2026-10-30T15:49:42.016981Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "YrumtiCrochyNSq3",
             "type": "MOD",
             "side": "BOTH",
@@ -5368,6 +5411,43 @@
                     "required_dependencies": [],
                     "size": 726042,
                     "date_published": "2025-12-17T18:52:55.410390Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "EgZmpcuB8381vZcP",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "mezzconfig"
+            },
+            "name": {
+                "modrinth": "MezzConfig"
+            },
+            "id": {
+                "modrinth": "7tEfOcA7"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "mezz_config-1.21.1-neoforge-0.6.10-standalone.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/sL7Ghaz1/mezz_config-1.21.1-neoforge-0.6.10-standalone.jar",
+                    "id": "sL7Ghaz1",
+                    "parent_id": "7tEfOcA7",
+                    "hashes": {
+                        "sha512": "f9848590311ae1f2c9a20efcfd7485846a011deccf85c2eee17cbed141b8d88f3e62e3733bbf0cd6b0714f59deca5470f50780750358d3ae2b1fd6597b209ccb",
+                        "sha1": "12beda0b388b97b9d49df76b6d9c8acde7f913e3"
+                    },
+                    "required_dependencies": [],
+                    "size": 346260,
+                    "date_published": "2026-10-30T15:02:13.674539Z"
                 }
             ]
         },
